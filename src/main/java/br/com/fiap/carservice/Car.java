@@ -14,7 +14,7 @@ public class Car {
 
     private String color;
     private String model;
-#teste git
+
     public String getColor() {
         return color;
     }
